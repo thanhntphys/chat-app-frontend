@@ -1,0 +1,19 @@
+.btn-primary {
+    color: #fff;
+    background-color: #813afe !important;
+    border-color: #813afe !important;
+}
+
+.icon-img {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 2rem;
+}
+
+.reset {
+    color: black;
+}
+
+.form-group{
+    margin-bottom: 1rem;
+}
